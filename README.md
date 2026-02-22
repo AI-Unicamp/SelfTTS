@@ -46,6 +46,16 @@ sh make_selftts_env.sh
 
 Feel free to adapt the environment configuration to your own needs.
 
+Also build the monotonic alignement:
+
+
+```bash
+conda activate selftts
+cd monotonic_align
+mkdir monotonic_align
+python setup.py build_ext --inplace
+```
+
 ---
 
 ## 🚀 Training
