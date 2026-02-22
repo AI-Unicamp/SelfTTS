@@ -136,11 +136,11 @@ This work builds upon and is inspired by the following open-source projects:
 > Citation coming soon — paper under review.
 
 ```bibtex
-@article{selftts,
+@article{ueda2026selftts,
   title   = {SelfTTS: Cross-Speaker Style Transfer through Explicit Embedding
              Disentanglement and Self-Refinement using Self-Augmentation},
-  author  = {},
-  year    = {2024},
+  author  = {Ueda, Lucas H., Lima, João G.T., Corrêa, Pedro R., Costa, Paula D.P.},
+  year    = {2026},
   note    = {Coming soon}
 }
 ```
