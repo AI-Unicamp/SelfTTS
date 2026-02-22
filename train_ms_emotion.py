@@ -26,8 +26,6 @@ from models import (
   MultiPeriodDiscriminator,
 )
 
-from style_encoder import VeclStyleEncoder
-
 from losses import (
   generator_loss,
   discriminator_loss,

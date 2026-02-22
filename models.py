@@ -570,14 +570,6 @@ class SynthesizerTrn(nn.Module):
 
       if(self.emotion_embedding_type == 'lookup'):
         self.emb_e = nn.Embedding(n_emotions, gin_channels)
-      elif(self.emotion_embedding_type == 'metastyle'): # Specifically here we also would change the num_repeat if using filtermeldim
-        if(self.filter_mel_bin > 0):
-          self.emb_e = style_encoder.StyleTTSMelEncoder(dim_in=48, style_dim=gin_channels, max_conv_dim=384, num_repeat = 2)
-        else:
-          self.emb_e = style_encoder.StyleTTSMelEncoder(dim_in=48, style_dim=gin_channels, max_conv_dim=384, num_repeat = 4)
-      elif(self.emotion_embedding_type == 'stylespeech'):
-        self.emb_e = style_encoder.StyleSpeechMelEncoder(n_mel_channels = mel_dim, style_hidden = 256, style_vector_dim = gin_channels, 
-    style_kernel_size = 3, style_head = 4, dropout=0.1)
       elif(self.emotion_embedding_type == 're'):
         self.emb_e = style_encoder.ReferenceEncoder(mel_dim, gin_channels*2)
       else:
@@ -726,10 +718,6 @@ class SynthesizerTrn(nn.Module):
         perturbed_melspec = perturbed_melspec[:, :self.filter_mel_bin, :]
       if(self.emotion_embedding_type == "lookup"):
         e = self.emb_e(eid) # [b, h, 1]
-      elif(self.emotion_embedding_type == "metastyle"):
-        e = self.emb_e(perturbed_melspec) 
-      elif(self.emotion_embedding_type == "stylespeech"):
-        e = self.emb_e(perturbed_melspec) 
       elif(self.emotion_embedding_type == "re"):
         e = self.emb_e(perturbed_melspec) 
       else:
@@ -839,16 +827,6 @@ class SynthesizerTrn(nn.Module):
       if self.emotion_embedding_type == "lookup":
           assert eid is not None, "eid must be provided for lookup emotion embedding"
           e = self.emb_e(eid)
-
-      elif self.emotion_embedding_type == "metastyle":
-          assert melspec is not None, \
-              "melspec must be provided for metastyle emotion embedding"
-          e = self.emb_e(melspec)
-
-      elif(self.emotion_embedding_type == "stylespeech"):
-          assert melspec is not None, \
-              "melspec must be provided for stylespeech emotion embedding"
-          e = self.emb_e(melspec)
 
       elif self.emotion_embedding_type == "re":
           assert melspec is not None, \

@@ -54,8 +54,8 @@ Feel free to adapt the environment configuration to your own needs.
 
 ```bash
 mkdir vctk_base_16k
-wget blablabla/G_800000.pth -O vctk_base_16k/G_800000.pth
-wget blablabla/D_800000.pth -O vctk_base_16k/D_800000.pth
+wget https://github.com/AI-Unicamp/SelfTTS/releases/download/v1.0.0/G_800000.pth -O vctk_base_16k/G_800000.pth
+wget https://github.com/AI-Unicamp/SelfTTS/releases/download/v1.0.0/D_800000.pth -O vctk_base_16k/D_800000.pth
 ```
 
 ---
@@ -85,6 +85,17 @@ python train_ms_emotion.py -c configs/selftts_training.json -m selftts_training
 ---
 
 ### Step 3 — Train Self-Refinement with Self-Augmentation
+
+Ensure to give the right path at the corresponding config file. If you want to train only the self-augmentation step we provide a checkpoint of SelfTTS:
+
+
+```bash
+mkdir logs/
+mkdir logs/selftts
+wget https://github.com/AI-Unicamp/SelfTTS/releases/download/v1.0.0/G_200000.pth -O logs/selftts/G_200000.pth
+wget https://github.com/AI-Unicamp/SelfTTS/releases/download/v1.0.0/D_200000.pth -O logs/selftts/D_200000.pth
+```
+
 
 We provide a dedicated SLURM script:
 
