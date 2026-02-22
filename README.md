@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎙️ SelfTTS
+# SelfTTS
 
 **Cross-speaker style transfer through explicit embedding disentanglement and self-refinement using self-augmentation**
 
@@ -133,9 +133,3 @@ This work builds upon and is inspired by the following open-source projects:
   note    = {Coming soon}
 }
 ```
-
----
-
-<div align="center">
-  <sub>Made with ❤️ for the TTS research community</sub>
-</div>
