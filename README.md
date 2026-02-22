@@ -26,13 +26,20 @@ SelfTTS is a text-to-speech system designed for **cross-speaker style transfer**
 
 ## 📦 Dataset
 
-We use the [ESD (Emotional Speech Dataset)](https://github.com/HLTSingapore/Emotional-Speech-Data) for training. A download and formatting script is provided for convenience.
+We use the ESD (Emotional Speech Dataset) for training.
 
-```bash
-sh download_esd.sh
+Download the dataset through the official ESD repository, then organize it into the following structure before training:
+```
+files/
+├── 0011_Angry/
+├── 0011_Happy/
+├── 0011_Neutral/
+│   └── *.wav
+├── ...
+└── 0020_Surprise/
 ```
 
-> ⚠️ **Note:** If you use the original ESD data format instead of the one produced by our script, you will need to adapt the filelists accordingly.
+Each speaker's emotional recordings should be split into flat directories named `{speaker_id}_{Emotion}` (e.g., `0011_Angry`, `0012_Happy`). The provided filelists assume this layout — if your directory structure differs, you will need to adapt the filelists accordingly.
 
 ---
 

@@ -3,9 +3,9 @@
 #SBATCH --output=./slurm/selfaug_%j.out
 #SBATCH --error=./slurm/selfaug_%j.err
 #SBATCH --ntasks=1
-#SBATCH --time=4-00:00:00
+#SBATCH --time=1-00:00:00
 #SBATCH --mem=64G          
-#SBATCH --partition=l40s 
+#SBATCH --partition=p5000 
 #SBATCH --gres=gpu:1
 #SBATCH --mail-type=BEGIN,END,FAIL
 
