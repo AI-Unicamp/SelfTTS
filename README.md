@@ -4,10 +4,12 @@
 
 **Cross-speaker style transfer through explicit embedding disentanglement and self-refinement using self-augmentation**
 
+[![Publication](https://img.shields.io/badge/Publication-Read%20Paper-success?style=flat-square&logo=academia)](your-link-here)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Framework-EE4C2C?style=flat-square&logo=pytorch)](https://pytorch.org)
 [![SLURM](https://img.shields.io/badge/SLURM-HPC%20Ready-green?style=flat-square)](https://slurm.schedmd.com)
 [![License](https://img.shields.io/badge/License-Research-orange?style=flat-square)]()
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18744290-blue?style=flat-square&logo=zenodo)](https://doi.org/10.5281/zenodo.18744290)
 
 *Official implementation of the SelfTTS paper*
 
