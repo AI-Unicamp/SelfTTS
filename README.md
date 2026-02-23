@@ -22,6 +22,8 @@ SelfTTS is a text-to-speech system designed for **cross-speaker style transfer**
 - **Explicit Embedding Disentanglement** — cleanly separating speaker identity from speaking style in the latent space
 - **Self-Refinement via Self-Augmentation** — iteratively improving output quality using its own generated data as training signal
 
+This repository is based on VITS official implementation, for reproducibility and adaptability purposes we keep almost all structure the same as it. 
+
 ---
 
 ## 📦 Dataset
@@ -79,7 +81,7 @@ wget https://github.com/AI-Unicamp/SelfTTS/releases/download/v1.0.0/D_800000.pth
 
 ### Step 2 — Train SelfTTS
 
-We provide a SLURM script for HPC environments:
+We provide a SLURM script for HPC environments. Make sure to replace `{your_esd_base_path}` to your ESD data path. 
 
 ```bash
 sbatch run_selftts.sh
@@ -114,7 +116,7 @@ wget https://github.com/AI-Unicamp/SelfTTS/releases/download/v1.0.0/D_200000.pth
 ```
 
 
-We provide a dedicated SLURM script:
+We provide a dedicated SLURM script. Make sure to replace `{your_esd_base_path}` to your ESD data path. 
 
 ```bash
 sbatch run_selftts_selfaugmentation.sh
