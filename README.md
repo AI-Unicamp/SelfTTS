@@ -165,3 +165,24 @@ This work builds upon and is inspired by the following open-source projects:
   note    = {Coming soon}
 }
 ```
+
+```bibtex
+@software{ueda2026selfttsrepository,
+  author       = {Lucas Hideki Ueda},
+  title        = {AI-Unicamp/SelfTTS: v1.0.1},
+  month        = feb,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.1},
+  doi          = {10.5281/zenodo.18744290},
+  url          = {https://doi.org/10.5281/zenodo.18744290},
+  swhid        = {swh:1:dir:ea47be5c0d3941f26121b5db9131112197a08f95
+                   ;origin=https://doi.org/10.5281/zenodo.18744289;vi
+                   sit=swh:1:snp:8dbb8ca41c05a303bfdefd2bc07125b0eefb
+                   18f6;anchor=swh:1:rel:f264b90856ae8521cb8307b07c3c
+                   7669d539d3f7;path=AI-Unicamp-SelfTTS-8a6e4ac
+                  },
+}
+```
+
+
