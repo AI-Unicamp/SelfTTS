@@ -1,0 +1,840 @@
+DUMMY3/0019_Sad/0019_001351.wav|8|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|3
+DUMMY3/0019_Neutral/0019_000310.wav|8|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|2
+DUMMY3/0012_Surprise/0012_001713.wav|1|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|4
+DUMMY3/0017_Angry/0017_000666.wav|6|ɐ θˈiːf ɪnðə nˈaɪt|0
+DUMMY3/0017_Happy/0017_001009.wav|6|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|1
+DUMMY3/0018_Happy/0018_001013.wav|7|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|1
+DUMMY3/0013_Happy/0013_001006.wav|2|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|1
+DUMMY3/0017_Surprise/0017_001711.wav|6|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|4
+DUMMY3/0013_Surprise/0013_001705.wav|2|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|4
+DUMMY3/0017_Happy/0017_001013.wav|6|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|1
+DUMMY3/0014_Sad/0014_001355.wav|3|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|3
+DUMMY3/0020_Neutral/0020_000309.wav|9|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|2
+DUMMY3/0012_Sad/0012_001355.wav|1|fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|3
+DUMMY3/0020_Angry/0020_000655.wav|9|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|0
+DUMMY3/0014_Sad/0014_001364.wav|3|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|3
+DUMMY3/0019_Surprise/0019_001711.wav|8|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|4
+DUMMY3/0020_Happy/0020_001006.wav|9|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|1
+DUMMY3/0017_Neutral/0017_000308.wav|6|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|2
+DUMMY3/0017_Surprise/0017_001715.wav|6|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|4
+DUMMY3/0019_Neutral/0019_000312.wav|8|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|2
+DUMMY3/0019_Surprise/0019_001705.wav|8|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|4
+DUMMY3/0018_Neutral/0018_000306.wav|7|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|2
+DUMMY3/0012_Sad/0012_001357.wav|1|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|3
+DUMMY3/0014_Angry/0014_000660.wav|3|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|0
+DUMMY3/0013_Surprise/0013_001719.wav|2|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|4
+DUMMY3/0014_Sad/0014_001358.wav|3|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|3
+DUMMY3/0015_Neutral/0015_000320.wav|4|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|2
+DUMMY3/0018_Surprise/0018_001704.wav|7|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|4
+DUMMY3/0014_Surprise/0014_001705.wav|3|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|4
+DUMMY3/0017_Sad/0017_001360.wav|6|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|3
+DUMMY3/0017_Angry/0017_000656.wav|6|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|0
+DUMMY3/0018_Angry/0018_000656.wav|7|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|0
+DUMMY3/0015_Neutral/0015_000309.wav|4|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|2
+DUMMY3/0018_Surprise/0018_001711.wav|7|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|4
+DUMMY3/0012_Angry/0012_000652.wav|1|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|0
+DUMMY3/0019_Angry/0019_000658.wav|8|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|0
+DUMMY3/0018_Happy/0018_001005.wav|7|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|1
+DUMMY3/0013_Sad/0013_001363.wav|2|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|3
+DUMMY3/0017_Neutral/0017_000305.wav|6|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|2
+DUMMY3/0020_Happy/0020_001019.wav|9|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|1
+DUMMY3/0017_Sad/0017_001355.wav|6|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|3
+DUMMY3/0013_Neutral/0013_000316.wav|2|ɐ θˈiːf ɪnðə nˈaɪt|2
+DUMMY3/0020_Sad/0020_001352.wav|9|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|3
+DUMMY3/0017_Neutral/0017_000307.wav|6|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|2
+DUMMY3/0019_Happy/0019_001013.wav|8|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|1
+DUMMY3/0020_Neutral/0020_000315.wav|9|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|2
+DUMMY3/0014_Angry/0014_000663.wav|3|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|0
+DUMMY3/0017_Sad/0017_001358.wav|6|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|3
+DUMMY3/0020_Sad/0020_001370.wav|9|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|3
+DUMMY3/0014_Angry/0014_000656.wav|3|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|0
+DUMMY3/0020_Surprise/0020_001706.wav|9|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|4
+DUMMY3/0019_Happy/0019_001006.wav|8|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|1
+DUMMY3/0020_Happy/0020_001004.wav|9|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|1
+DUMMY3/0018_Sad/0018_001363.wav|7|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|3
+DUMMY3/0019_Surprise/0019_001720.wav|8|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|4
+DUMMY3/0012_Angry/0012_000656.wav|1|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|0
+DUMMY3/0012_Surprise/0012_001711.wav|1|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|4
+DUMMY3/0013_Neutral/0013_000311.wav|2|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|2
+DUMMY3/0014_Neutral/0014_000308.wav|3|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|2
+DUMMY3/0017_Happy/0017_001020.wav|6|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|1
+DUMMY3/0018_Sad/0018_001356.wav|7|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|3
+DUMMY3/0012_Happy/0012_001018.wav|1|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|1
+DUMMY3/0020_Sad/0020_001356.wav|9|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|3
+DUMMY3/0020_Surprise/0020_001716.wav|9|ɐ θˈiːf ɪnðə nˈaɪt|4
+DUMMY3/0020_Sad/0020_001355.wav|9|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|3
+DUMMY3/0012_Surprise/0012_001718.wav|1|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|4
+DUMMY3/0014_Surprise/0014_001711.wav|3|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|4
+DUMMY3/0017_Sad/0017_001354.wav|6|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|3
+DUMMY3/0018_Neutral/0018_000307.wav|7|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|2
+DUMMY3/0019_Surprise/0019_001718.wav|8|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|4
+DUMMY3/0014_Angry/0014_000666.wav|3|ɐ θˈiːf ɪnðə nˈaɪt|0
+DUMMY3/0014_Sad/0014_001354.wav|3|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|3
+DUMMY3/0019_Happy/0019_001017.wav|8|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|1
+DUMMY3/0020_Surprise/0020_001705.wav|9|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|4
+DUMMY3/0013_Sad/0013_001370.wav|2|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|3
+DUMMY3/0018_Neutral/0018_000318.wav|7|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|2
+DUMMY3/0012_Angry/0012_000653.wav|1|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|0
+DUMMY3/0015_Neutral/0015_000316.wav|4|ɐ θˈiːf ɪnðə nˈaɪt|2
+DUMMY3/0012_Surprise/0012_001716.wav|1|ɐ θˈiːf ɪnðə nˈaɪt|4
+DUMMY3/0020_Angry/0020_000669.wav|9|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|0
+DUMMY3/0020_Happy/0020_001003.wav|9|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|1
+DUMMY3/0015_Neutral/0015_000317.wav|4|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|2
+DUMMY3/0012_Surprise/0012_001702.wav|1|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|4
+DUMMY3/0012_Surprise/0012_001703.wav|1|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|4
+DUMMY3/0017_Angry/0017_000668.wav|6|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|0
+DUMMY3/0012_Sad/0012_001368.wav|1|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|3
+DUMMY3/0013_Neutral/0013_000312.wav|2|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|2
+DUMMY3/0018_Happy/0018_001017.wav|7|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|1
+DUMMY3/0013_Happy/0013_001019.wav|2|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|1
+DUMMY3/0020_Surprise/0020_001718.wav|9|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|4
+DUMMY3/0020_Angry/0020_000670.wav|9|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|0
+DUMMY3/0017_Sad/0017_001361.wav|6|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|3
+DUMMY3/0013_Surprise/0013_001710.wav|2|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|4
+DUMMY3/0017_Angry/0017_000662.wav|6|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|0
+DUMMY3/0019_Angry/0019_000651.wav|8|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|0
+DUMMY3/0017_Angry/0017_000659.wav|6|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|0
+DUMMY3/0012_Surprise/0012_001707.wav|1|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|4
+DUMMY3/0014_Surprise/0014_001716.wav|3|ɐ θˈiːf ɪnðə nˈaɪt|4
+DUMMY3/0018_Happy/0018_001002.wav|7|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|1
+DUMMY3/0013_Angry/0013_000669.wav|2|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|0
+DUMMY3/0014_Sad/0014_001366.wav|3|ɐ θˈiːf ɪnðə nˈaɪt|3
+DUMMY3/0014_Surprise/0014_001706.wav|3|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|4
+DUMMY3/0020_Angry/0020_000658.wav|9|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|0
+DUMMY3/0020_Neutral/0020_000320.wav|9|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|2
+DUMMY3/0020_Happy/0020_001009.wav|9|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|1
+DUMMY3/0019_Neutral/0019_000304.wav|8|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|2
+DUMMY3/0017_Surprise/0017_001714.wav|6|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|4
+DUMMY3/0014_Happy/0014_001020.wav|3|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|1
+DUMMY3/0019_Surprise/0019_001703.wav|8|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|4
+DUMMY3/0020_Happy/0020_001002.wav|9|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|1
+DUMMY3/0015_Neutral/0015_000302.wav|4|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|2
+DUMMY3/0019_Surprise/0019_001709.wav|8|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|4
+DUMMY3/0020_Neutral/0020_000311.wav|9|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|2
+DUMMY3/0017_Neutral/0017_000319.wav|6|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|2
+DUMMY3/0019_Happy/0019_001020.wav|8|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|1
+DUMMY3/0018_Surprise/0018_001712.wav|7|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|4
+DUMMY3/0018_Surprise/0018_001720.wav|7|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|4
+DUMMY3/0012_Angry/0012_000659.wav|1|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|0
+DUMMY3/0014_Happy/0014_001010.wav|3|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|1
+DUMMY3/0020_Surprise/0020_001712.wav|9|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|4
+DUMMY3/0014_Sad/0014_001351.wav|3|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|3
+DUMMY3/0019_Surprise/0019_001708.wav|8|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|4
+DUMMY3/0015_Neutral/0015_000304.wav|4|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|2
+DUMMY3/0013_Happy/0013_001014.wav|2|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|1
+DUMMY3/0018_Surprise/0018_001710.wav|7|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|4
+DUMMY3/0017_Neutral/0017_000310.wav|6|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|2
+DUMMY3/0020_Happy/0020_001016.wav|9|ɐ θˈiːf ɪnðə nˈaɪt|1
+DUMMY3/0019_Angry/0019_000660.wav|8|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|0
+DUMMY3/0019_Sad/0019_001358.wav|8|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|3
+DUMMY3/0013_Angry/0013_000651.wav|2|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|0
+DUMMY3/0014_Neutral/0014_000320.wav|3|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|2
+DUMMY3/0014_Neutral/0014_000309.wav|3|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|2
+DUMMY3/0013_Sad/0013_001360.wav|2|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|3
+DUMMY3/0017_Surprise/0017_001712.wav|6|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|4
+DUMMY3/0012_Happy/0012_001002.wav|1|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|1
+DUMMY3/0012_Angry/0012_000663.wav|1|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|0
+DUMMY3/0014_Happy/0014_001004.wav|3|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|1
+DUMMY3/0020_Angry/0020_000654.wav|9|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|0
+DUMMY3/0018_Happy/0018_001009.wav|7|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|1
+DUMMY3/0019_Sad/0019_001360.wav|8|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|3
+DUMMY3/0012_Angry/0012_000660.wav|1|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|0
+DUMMY3/0019_Angry/0019_000657.wav|8|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|0
+DUMMY3/0012_Sad/0012_001362.wav|1|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|3
+DUMMY3/0013_Surprise/0013_001706.wav|2|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|4
+DUMMY3/0014_Surprise/0014_001708.wav|3|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|4
+DUMMY3/0017_Surprise/0017_001709.wav|6|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|4
+DUMMY3/0019_Angry/0019_000665.wav|8|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|0
+DUMMY3/0014_Angry/0014_000655.wav|3|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|0
+DUMMY3/0014_Sad/0014_001360.wav|3|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|3
+DUMMY3/0017_Neutral/0017_000309.wav|6|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|2
+DUMMY3/0014_Sad/0014_001359.wav|3|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|3
+DUMMY3/0013_Happy/0013_001003.wav|2|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|1
+DUMMY3/0020_Neutral/0020_000312.wav|9|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|2
+DUMMY3/0013_Surprise/0013_001707.wav|2|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|4
+DUMMY3/0017_Angry/0017_000651.wav|6|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|0
+DUMMY3/0020_Neutral/0020_000302.wav|9|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|2
+DUMMY3/0012_Angry/0012_000651.wav|1|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|0
+DUMMY3/0012_Surprise/0012_001720.wav|1|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|4
+DUMMY3/0020_Angry/0020_000665.wav|9|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|0
+DUMMY3/0017_Neutral/0017_000313.wav|6|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|2
+DUMMY3/0019_Sad/0019_001362.wav|8|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|3
+DUMMY3/0014_Surprise/0014_001707.wav|3|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|4
+DUMMY3/0014_Surprise/0014_001719.wav|3|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|4
+DUMMY3/0014_Surprise/0014_001715.wav|3|ɪts tə sˈeɪ hˌaʊ juː dˈuː wɪð tˈɑːmz ˈænsɚ|4
+DUMMY3/0015_Neutral/0015_000303.wav|4|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|2
+DUMMY3/0014_Surprise/0014_001704.wav|3|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|4
+DUMMY3/0017_Neutral/0017_000320.wav|6|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|2
+DUMMY3/0020_Angry/0020_000657.wav|9|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|0
+DUMMY3/0019_Sad/0019_001363.wav|8|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|3
+DUMMY3/0020_Neutral/0020_000306.wav|9|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|2
+DUMMY3/0013_Happy/0013_001008.wav|2|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|1
+DUMMY3/0017_Neutral/0017_000318.wav|6|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|2
+DUMMY3/0013_Surprise/0013_001718.wav|2|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|4
+DUMMY3/0014_Sad/0014_001353.wav|3|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|3
+DUMMY3/0013_Surprise/0013_001708.wav|2|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|4
+DUMMY3/0014_Angry/0014_000659.wav|3|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|0
+DUMMY3/0018_Happy/0018_001016.wav|7|ɐ θˈiːf ɪnðə nˈaɪt|1
+DUMMY3/0020_Happy/0020_001020.wav|9|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|1
+DUMMY3/0014_Angry/0014_000662.wav|3|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|0
+DUMMY3/0013_Neutral/0013_000314.wav|2|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|2
+DUMMY3/0019_Angry/0019_000662.wav|8|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|0
+DUMMY3/0012_Sad/0012_001360.wav|1|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|3
+DUMMY3/0019_Sad/0019_001352.wav|8|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|3
+DUMMY3/0020_Angry/0020_000659.wav|9|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|0
+DUMMY3/0012_Happy/0012_001011.wav|1|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|1
+DUMMY3/0019_Happy/0019_001003.wav|8|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|1
+DUMMY3/0019_Sad/0019_001370.wav|8|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|3
+DUMMY3/0018_Neutral/0018_000319.wav|7|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|2
+DUMMY3/0014_Surprise/0014_001713.wav|3|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|4
+DUMMY3/0019_Sad/0019_001356.wav|8|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|3
+DUMMY3/0017_Angry/0017_000660.wav|6|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|0
+DUMMY3/0017_Surprise/0017_001706.wav|6|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|4
+DUMMY3/0020_Neutral/0020_000303.wav|9|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|2
+DUMMY3/0020_Surprise/0020_001717.wav|9|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|4
+DUMMY3/0014_Neutral/0014_000315.wav|3|ɪts tə sˈeɪ hˌaʊ juː dˈuː wɪð tˈɑːmz ˈænsɚ|2
+DUMMY3/0014_Neutral/0014_000307.wav|3|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|2
+DUMMY3/0017_Surprise/0017_001718.wav|6|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|4
+DUMMY3/0012_Happy/0012_001017.wav|1|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|1
+DUMMY3/0013_Angry/0013_000662.wav|2|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|0
+DUMMY3/0014_Surprise/0014_001703.wav|3|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|4
+DUMMY3/0019_Neutral/0019_000309.wav|8|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|2
+DUMMY3/0013_Sad/0013_001352.wav|2|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|3
+DUMMY3/0014_Surprise/0014_001702.wav|3|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|4
+DUMMY3/0013_Neutral/0013_000301.wav|2|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|2
+DUMMY3/0013_Sad/0013_001357.wav|2|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|3
+DUMMY3/0018_Happy/0018_001012.wav|7|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|1
+DUMMY3/0014_Happy/0014_001018.wav|3|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|1
+DUMMY3/0012_Angry/0012_000654.wav|1|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|0
+DUMMY3/0017_Sad/0017_001364.wav|6|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|3
+DUMMY3/0012_Surprise/0012_001714.wav|1|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|4
+DUMMY3/0017_Happy/0017_001007.wav|6|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|1
+DUMMY3/0014_Sad/0014_001370.wav|3|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|3
+DUMMY3/0013_Happy/0013_001007.wav|2|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|1
+DUMMY3/0019_Neutral/0019_000319.wav|8|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|2
+DUMMY3/0020_Angry/0020_000660.wav|9|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|0
+DUMMY3/0014_Angry/0014_000654.wav|3|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|0
+DUMMY3/0020_Angry/0020_000656.wav|9|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|0
+DUMMY3/0013_Angry/0013_000670.wav|2|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|0
+DUMMY3/0020_Sad/0020_001361.wav|9|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|3
+DUMMY3/0014_Surprise/0014_001714.wav|3|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|4
+DUMMY3/0012_Surprise/0012_001712.wav|1|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|4
+DUMMY3/0015_Neutral/0015_000313.wav|4|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|2
+DUMMY3/0014_Happy/0014_001006.wav|3|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|1
+DUMMY3/0020_Angry/0020_000667.wav|9|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|0
+DUMMY3/0020_Sad/0020_001360.wav|9|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|3
+DUMMY3/0013_Surprise/0013_001720.wav|2|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|4
+DUMMY3/0013_Sad/0013_001362.wav|2|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|3
+DUMMY3/0019_Neutral/0019_000311.wav|8|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|2
+DUMMY3/0018_Angry/0018_000659.wav|7|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|0
+DUMMY3/0017_Surprise/0017_001717.wav|6|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|4
+DUMMY3/0014_Neutral/0014_000312.wav|3|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|2
+DUMMY3/0018_Surprise/0018_001703.wav|7|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|4
+DUMMY3/0020_Sad/0020_001359.wav|9|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|3
+DUMMY3/0020_Sad/0020_001366.wav|9|ɐ θˈiːf ɪnðə nˈaɪt|3
+DUMMY3/0018_Sad/0018_001369.wav|7|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|3
+DUMMY3/0018_Surprise/0018_001709.wav|7|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|4
+DUMMY3/0018_Neutral/0018_000320.wav|7|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|2
+DUMMY3/0020_Neutral/0020_000313.wav|9|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|2
+DUMMY3/0012_Sad/0012_001370.wav|1|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|3
+DUMMY3/0017_Surprise/0017_001702.wav|6|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|4
+DUMMY3/0019_Neutral/0019_000303.wav|8|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|2
+DUMMY3/0013_Neutral/0013_000308.wav|2|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|2
+DUMMY3/0018_Happy/0018_001006.wav|7|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|1
+DUMMY3/0018_Angry/0018_000658.wav|7|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|0
+DUMMY3/0017_Happy/0017_001017.wav|6|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|1
+DUMMY3/0012_Happy/0012_001019.wav|1|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|1
+DUMMY3/0013_Angry/0013_000661.wav|2|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|0
+DUMMY3/0012_Sad/0012_001369.wav|1|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|3
+DUMMY3/0013_Sad/0013_001351.wav|2|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|3
+DUMMY3/0017_Sad/0017_001363.wav|6|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|3
+DUMMY3/0014_Neutral/0014_000311.wav|3|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|2
+DUMMY3/0019_Happy/0019_001005.wav|8|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|1
+DUMMY3/0018_Happy/0018_001007.wav|7|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|1
+DUMMY3/0015_Neutral/0015_000305.wav|4|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|2
+DUMMY3/0014_Neutral/0014_000317.wav|3|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|2
+DUMMY3/0013_Neutral/0013_000302.wav|2|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|2
+DUMMY3/0014_Angry/0014_000670.wav|3|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|0
+DUMMY3/0018_Angry/0018_000665.wav|7|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|0
+DUMMY3/0020_Angry/0020_000666.wav|9|ɐ θˈiːf ɪnðə nˈaɪt|0
+DUMMY3/0019_Happy/0019_001009.wav|8|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|1
+DUMMY3/0018_Angry/0018_000664.wav|7|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|0
+DUMMY3/0018_Happy/0018_001019.wav|7|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|1
+DUMMY3/0019_Happy/0019_001007.wav|8|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|1
+DUMMY3/0014_Neutral/0014_000301.wav|3|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|2
+DUMMY3/0019_Happy/0019_001015.wav|8|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|1
+DUMMY3/0013_Sad/0013_001353.wav|2|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|3
+DUMMY3/0014_Neutral/0014_000310.wav|3|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|2
+DUMMY3/0012_Happy/0012_001006.wav|1|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|1
+DUMMY3/0013_Happy/0013_001018.wav|2|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|1
+DUMMY3/0014_Angry/0014_000669.wav|3|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|0
+DUMMY3/0018_Sad/0018_001360.wav|7|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|3
+DUMMY3/0018_Happy/0018_001001.wav|7|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|1
+DUMMY3/0012_Sad/0012_001351.wav|1|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|3
+DUMMY3/0018_Surprise/0018_001717.wav|7|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|4
+DUMMY3/0013_Angry/0013_000655.wav|2|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|0
+DUMMY3/0013_Sad/0013_001366.wav|2|ɐ θˈiːf ɪnðə nˈaɪt|3
+DUMMY3/0018_Angry/0018_000670.wav|7|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|0
+DUMMY3/0020_Happy/0020_001010.wav|9|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|1
+DUMMY3/0013_Surprise/0013_001715.wav|2|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|4
+DUMMY3/0017_Happy/0017_001002.wav|6|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|1
+DUMMY3/0013_Happy/0013_001002.wav|2|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|1
+DUMMY3/0019_Sad/0019_001368.wav|8|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|3
+DUMMY3/0017_Sad/0017_001365.wav|6|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|3
+DUMMY3/0012_Neutral/0012_000303.wav|1|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|2
+DUMMY3/0013_Surprise/0013_001709.wav|2|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|4
+DUMMY3/0017_Sad/0017_001368.wav|6|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|3
+DUMMY3/0019_Angry/0019_000670.wav|8|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|0
+DUMMY3/0014_Angry/0014_000668.wav|3|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|0
+DUMMY3/0012_Sad/0012_001361.wav|1|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|3
+DUMMY3/0012_Sad/0012_001352.wav|1|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|3
+DUMMY3/0012_Neutral/0012_000316.wav|1|ɐ θˈiːf ɪnðə nˈaɪt|2
+DUMMY3/0012_Sad/0012_001364.wav|1|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|3
+DUMMY3/0018_Sad/0018_001359.wav|7|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|3
+DUMMY3/0014_Neutral/0014_000319.wav|3|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|2
+DUMMY3/0017_Angry/0017_000663.wav|6|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|0
+DUMMY3/0018_Neutral/0018_000312.wav|7|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|2
+DUMMY3/0020_Surprise/0020_001704.wav|9|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|4
+DUMMY3/0018_Angry/0018_000654.wav|7|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|0
+DUMMY3/0017_Surprise/0017_001703.wav|6|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|4
+DUMMY3/0014_Sad/0014_001369.wav|3|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|3
+DUMMY3/0017_Surprise/0017_001710.wav|6|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|4
+DUMMY3/0014_Happy/0014_001005.wav|3|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|1
+DUMMY3/0013_Happy/0013_001005.wav|2|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|1
+DUMMY3/0013_Neutral/0013_000310.wav|2|wˌaɪ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|2
+DUMMY3/0019_Angry/0019_000659.wav|8|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|0
+DUMMY3/0017_Sad/0017_001366.wav|6|ɐ θˈiːf ɪnðə nˈaɪt|3
+DUMMY3/0013_Sad/0013_001358.wav|2|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|3
+DUMMY3/0013_Neutral/0013_000305.wav|2|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|2
+DUMMY3/0012_Surprise/0012_001717.wav|1|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|4
+DUMMY3/0012_Angry/0012_000667.wav|1|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|0
+DUMMY3/0017_Neutral/0017_000315.wav|6|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|2
+DUMMY3/0013_Sad/0013_001367.wav|2|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|3
+DUMMY3/0015_Neutral/0015_000306.wav|4|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|2
+DUMMY3/0018_Sad/0018_001366.wav|7|ɐ θˈiːf ɪnðə nˈaɪt|3
+DUMMY3/0014_Surprise/0014_001701.wav|3|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|4
+DUMMY3/0019_Neutral/0019_000317.wav|8|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|2
+DUMMY3/0014_Sad/0014_001365.wav|3|ɪts tə sˈeɪ hˌaʊ juː dˈuː wɪð tˈɑːmz ˈænsɚ|3
+DUMMY3/0013_Surprise/0013_001717.wav|2|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|4
+DUMMY3/0019_Surprise/0019_001704.wav|8|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|4
+DUMMY3/0015_Neutral/0015_000307.wav|4|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|2
+DUMMY3/0012_Sad/0012_001354.wav|1|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|3
+DUMMY3/0017_Angry/0017_000657.wav|6|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|0
+DUMMY3/0013_Surprise/0013_001716.wav|2|ɐ θˈiːf ɪnðə nˈaɪt|4
+DUMMY3/0019_Angry/0019_000666.wav|8|ɐ θˈiːf ɪnðə nˈaɪt|0
+DUMMY3/0013_Neutral/0013_000319.wav|2|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|2
+DUMMY3/0017_Neutral/0017_000311.wav|6|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|2
+DUMMY3/0013_Angry/0013_000665.wav|2|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|0
+DUMMY3/0017_Neutral/0017_000314.wav|6|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|2
+DUMMY3/0020_Happy/0020_001013.wav|9|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|1
+DUMMY3/0014_Angry/0014_000657.wav|3|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|0
+DUMMY3/0013_Neutral/0013_000304.wav|2|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|2
+DUMMY3/0013_Surprise/0013_001704.wav|2|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|4
+DUMMY3/0012_Happy/0012_001008.wav|1|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|1
+DUMMY3/0012_Angry/0012_000661.wav|1|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|0
+DUMMY3/0020_Neutral/0020_000305.wav|9|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|2
+DUMMY3/0019_Surprise/0019_001702.wav|8|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|4
+DUMMY3/0020_Neutral/0020_000310.wav|9|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|2
+DUMMY3/0012_Surprise/0012_001706.wav|1|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|4
+DUMMY3/0017_Angry/0017_000670.wav|6|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|0
+DUMMY3/0019_Angry/0019_000661.wav|8|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|0
+DUMMY3/0020_Neutral/0020_000316.wav|9|ɐ θˈiːf ɪnðə nˈaɪt|2
+DUMMY3/0018_Happy/0018_001008.wav|7|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|1
+DUMMY3/0013_Happy/0013_001013.wav|2|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|1
+DUMMY3/0014_Surprise/0014_001717.wav|3|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|4
+DUMMY3/0013_Neutral/0013_000320.wav|2|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|2
+DUMMY3/0020_Surprise/0020_001709.wav|9|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|4
+DUMMY3/0019_Neutral/0019_000305.wav|8|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|2
+DUMMY3/0012_Happy/0012_001015.wav|1|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|1
+DUMMY3/0018_Surprise/0018_001713.wav|7|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|4
+DUMMY3/0019_Happy/0019_001016.wav|8|ɐ θˈiːf ɪnðə nˈaɪt|1
+DUMMY3/0020_Surprise/0020_001702.wav|9|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|4
+DUMMY3/0018_Angry/0018_000651.wav|7|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|0
+DUMMY3/0017_Neutral/0017_000301.wav|6|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|2
+DUMMY3/0014_Neutral/0014_000313.wav|3|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|2
+DUMMY3/0012_Happy/0012_001013.wav|1|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|1
+DUMMY3/0012_Happy/0012_001009.wav|1|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|1
+DUMMY3/0017_Happy/0017_001008.wav|6|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|1
+DUMMY3/0012_Happy/0012_001016.wav|1|ɐ θˈiːf ɪnðə nˈaɪt|1
+DUMMY3/0020_Sad/0020_001364.wav|9|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|3
+DUMMY3/0017_Neutral/0017_000304.wav|6|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|2
+DUMMY3/0017_Sad/0017_001351.wav|6|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|3
+DUMMY3/0017_Sad/0017_001359.wav|6|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|3
+DUMMY3/0015_Neutral/0015_000310.wav|4|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|2
+DUMMY3/0013_Neutral/0013_000309.wav|2|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|2
+DUMMY3/0018_Neutral/0018_000317.wav|7|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|2
+DUMMY3/0017_Happy/0017_001011.wav|6|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|1
+DUMMY3/0013_Happy/0013_001017.wav|2|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|1
+DUMMY3/0017_Happy/0017_001014.wav|6|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|1
+DUMMY3/0012_Neutral/0012_000301.wav|1|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|2
+DUMMY3/0017_Surprise/0017_001708.wav|6|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|4
+DUMMY3/0014_Sad/0014_001367.wav|3|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|3
+DUMMY3/0020_Surprise/0020_001701.wav|9|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|4
+DUMMY3/0019_Angry/0019_000654.wav|8|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|0
+DUMMY3/0019_Angry/0019_000656.wav|8|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|0
+DUMMY3/0012_Happy/0012_001010.wav|1|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|1
+DUMMY3/0013_Happy/0013_001016.wav|2|ɐ θˈiːf ɪnðə nˈaɪt|1
+DUMMY3/0019_Surprise/0019_001714.wav|8|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|4
+DUMMY3/0014_Sad/0014_001356.wav|3|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|3
+DUMMY3/0020_Surprise/0020_001720.wav|9|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|4
+DUMMY3/0012_Angry/0012_000665.wav|1|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|0
+DUMMY3/0018_Sad/0018_001355.wav|7|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|3
+DUMMY3/0018_Sad/0018_001368.wav|7|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|3
+DUMMY3/0012_Angry/0012_000655.wav|1|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|0
+DUMMY3/0018_Angry/0018_000655.wav|7|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|0
+DUMMY3/0017_Happy/0017_001010.wav|6|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|1
+DUMMY3/0017_Surprise/0017_001713.wav|6|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|4
+DUMMY3/0018_Happy/0018_001015.wav|7|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|1
+DUMMY3/0014_Happy/0014_001009.wav|3|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|1
+DUMMY3/0013_Happy/0013_001004.wav|2|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|1
+DUMMY3/0015_Neutral/0015_000315.wav|4|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|2
+DUMMY3/0017_Surprise/0017_001720.wav|6|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|4
+DUMMY3/0012_Neutral/0012_000307.wav|1|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|2
+DUMMY3/0012_Neutral/0012_000302.wav|1|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|2
+DUMMY3/0012_Angry/0012_000670.wav|1|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|0
+DUMMY3/0015_Neutral/0015_000319.wav|4|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|2
+DUMMY3/0018_Happy/0018_001014.wav|7|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|1
+DUMMY3/0012_Angry/0012_000662.wav|1|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|0
+DUMMY3/0014_Angry/0014_000665.wav|3|ɪts tə sˈeɪ hˌaʊ juː dˈuː wɪð tˈɑːmz ˈænsɚ|0
+DUMMY3/0014_Neutral/0014_000316.wav|3|ɐ θˈiːf ɪnðə nˈaɪt|2
+DUMMY3/0020_Neutral/0020_000307.wav|9|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|2
+DUMMY3/0019_Sad/0019_001354.wav|8|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|3
+DUMMY3/0020_Angry/0020_000668.wav|9|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|0
+DUMMY3/0018_Happy/0018_001018.wav|7|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|1
+DUMMY3/0019_Angry/0019_000653.wav|8|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|0
+DUMMY3/0014_Neutral/0014_000303.wav|3|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|2
+DUMMY3/0020_Sad/0020_001369.wav|9|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|3
+DUMMY3/0018_Happy/0018_001003.wav|7|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|1
+DUMMY3/0012_Angry/0012_000666.wav|1|ɐ θˈiːf ɪnðə nˈaɪt|0
+DUMMY3/0018_Surprise/0018_001705.wav|7|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|4
+DUMMY3/0018_Surprise/0018_001706.wav|7|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|4
+DUMMY3/0012_Angry/0012_000658.wav|1|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|0
+DUMMY3/0015_Neutral/0015_000312.wav|4|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|2
+DUMMY3/0018_Sad/0018_001364.wav|7|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|3
+DUMMY3/0013_Sad/0013_001369.wav|2|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|3
+DUMMY3/0015_Neutral/0015_000308.wav|4|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|2
+DUMMY3/0017_Angry/0017_000661.wav|6|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|0
+DUMMY3/0018_Sad/0018_001353.wav|7|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|3
+DUMMY3/0020_Happy/0020_001008.wav|9|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|1
+DUMMY3/0014_Happy/0014_001014.wav|3|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|1
+DUMMY3/0013_Angry/0013_000653.wav|2|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|0
+DUMMY3/0012_Happy/0012_001004.wav|1|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|1
+DUMMY3/0018_Angry/0018_000653.wav|7|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|0
+DUMMY3/0014_Happy/0014_001003.wav|3|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|1
+DUMMY3/0017_Angry/0017_000664.wav|6|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|0
+DUMMY3/0019_Surprise/0019_001713.wav|8|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|4
+DUMMY3/0019_Angry/0019_000668.wav|8|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|0
+DUMMY3/0017_Surprise/0017_001705.wav|6|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|4
+DUMMY3/0012_Surprise/0012_001701.wav|1|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|4
+DUMMY3/0019_Surprise/0019_001716.wav|8|ɐ θˈiːf ɪnðə nˈaɪt|4
+DUMMY3/0018_Angry/0018_000666.wav|7|ɐ θˈiːf ɪnðə nˈaɪt|0
+DUMMY3/0018_Surprise/0018_001701.wav|7|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|4
+DUMMY3/0014_Neutral/0014_000314.wav|3|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|2
+DUMMY3/0012_Happy/0012_001003.wav|1|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|1
+DUMMY3/0018_Angry/0018_000668.wav|7|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|0
+DUMMY3/0014_Neutral/0014_000306.wav|3|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|2
+DUMMY3/0013_Angry/0013_000667.wav|2|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|0
+DUMMY3/0017_Angry/0017_000669.wav|6|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|0
+DUMMY3/0019_Sad/0019_001357.wav|8|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|3
+DUMMY3/0018_Angry/0018_000660.wav|7|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|0
+DUMMY3/0018_Neutral/0018_000311.wav|7|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|2
+DUMMY3/0012_Sad/0012_001353.wav|1|ˈaɪ æm lˈoʊθ sˈiː hˌɪm ɡˈoʊ|3
+DUMMY3/0019_Sad/0019_001361.wav|8|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|3
+DUMMY3/0013_Neutral/0013_000318.wav|2|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|2
+DUMMY3/0012_Surprise/0012_001715.wav|1|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|4
+DUMMY3/0019_Happy/0019_001018.wav|8|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|1
+DUMMY3/0019_Happy/0019_001002.wav|8|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|1
+DUMMY3/0012_Angry/0012_000669.wav|1|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|0
+DUMMY3/0012_Neutral/0012_000317.wav|1|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|2
+DUMMY3/0018_Sad/0018_001370.wav|7|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|3
+DUMMY3/0019_Happy/0019_001008.wav|8|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|1
+DUMMY3/0019_Happy/0019_001012.wav|8|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|1
+DUMMY3/0013_Angry/0013_000656.wav|2|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|0
+DUMMY3/0013_Angry/0013_000666.wav|2|ɐ θˈiːf ɪnðə nˈaɪt|0
+DUMMY3/0018_Neutral/0018_000308.wav|7|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|2
+DUMMY3/0019_Sad/0019_001355.wav|8|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|3
+DUMMY3/0012_Sad/0012_001358.wav|1|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|3
+DUMMY3/0013_Angry/0013_000654.wav|2|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|0
+DUMMY3/0017_Happy/0017_001004.wav|6|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|1
+DUMMY3/0020_Happy/0020_001011.wav|9|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|1
+DUMMY3/0019_Neutral/0019_000318.wav|8|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|2
+DUMMY3/0019_Angry/0019_000669.wav|8|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|0
+DUMMY3/0020_Neutral/0020_000317.wav|9|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|2
+DUMMY3/0017_Neutral/0017_000302.wav|6|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|2
+DUMMY3/0018_Neutral/0018_000304.wav|7|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|2
+DUMMY3/0014_Angry/0014_000658.wav|3|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|0
+DUMMY3/0018_Angry/0018_000661.wav|7|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|0
+DUMMY3/0012_Surprise/0012_001705.wav|1|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|4
+DUMMY3/0018_Sad/0018_001362.wav|7|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|3
+DUMMY3/0018_Sad/0018_001352.wav|7|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|3
+DUMMY3/0014_Neutral/0014_000302.wav|3|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|2
+DUMMY3/0017_Sad/0017_001356.wav|6|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|3
+DUMMY3/0014_Neutral/0014_000305.wav|3|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|2
+DUMMY3/0019_Angry/0019_000667.wav|8|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|0
+DUMMY3/0012_Neutral/0012_000318.wav|1|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|2
+DUMMY3/0019_Happy/0019_001019.wav|8|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|1
+DUMMY3/0020_Sad/0020_001354.wav|9|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|3
+DUMMY3/0017_Happy/0017_001012.wav|6|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|1
+DUMMY3/0012_Neutral/0012_000315.wav|1|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|2
+DUMMY3/0020_Neutral/0020_000308.wav|9|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|2
+DUMMY3/0019_Surprise/0019_001710.wav|8|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|4
+DUMMY3/0014_Happy/0014_001002.wav|3|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|1
+DUMMY3/0018_Surprise/0018_001714.wav|7|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|4
+DUMMY3/0012_Happy/0012_001020.wav|1|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|1
+DUMMY3/0014_Happy/0014_001001.wav|3|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|1
+DUMMY3/0014_Happy/0014_001007.wav|3|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|1
+DUMMY3/0020_Angry/0020_000662.wav|9|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|0
+DUMMY3/0014_Sad/0014_001361.wav|3|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|3
+DUMMY3/0017_Sad/0017_001353.wav|6|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|3
+DUMMY3/0020_Sad/0020_001353.wav|9|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|3
+DUMMY3/0020_Sad/0020_001363.wav|9|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|3
+DUMMY3/0012_Sad/0012_001359.wav|1|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|3
+DUMMY3/0018_Surprise/0018_001702.wav|7|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|4
+DUMMY3/0020_Sad/0020_001358.wav|9|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|3
+DUMMY3/0019_Neutral/0019_000308.wav|8|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|2
+DUMMY3/0014_Sad/0014_001363.wav|3|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|3
+DUMMY3/0013_Angry/0013_000657.wav|2|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|0
+DUMMY3/0018_Neutral/0018_000316.wav|7|ɐ θˈiːf ɪnðə nˈaɪt|2
+DUMMY3/0019_Neutral/0019_000316.wav|8|ɐ θˈiːf ɪnðə nˈaɪt|2
+DUMMY3/0017_Happy/0017_001003.wav|6|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|1
+DUMMY3/0019_Sad/0019_001367.wav|8|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|3
+DUMMY3/0013_Surprise/0013_001703.wav|2|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|4
+DUMMY3/0017_Happy/0017_001005.wav|6|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|1
+DUMMY3/0013_Happy/0013_001010.wav|2|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|1
+DUMMY3/0018_Sad/0018_001357.wav|7|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|3
+DUMMY3/0013_Surprise/0013_001711.wav|2|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|4
+DUMMY3/0013_Sad/0013_001356.wav|2|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|3
+DUMMY3/0013_Angry/0013_000659.wav|2|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|0
+DUMMY3/0019_Neutral/0019_000320.wav|8|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|2
+DUMMY3/0019_Happy/0019_001011.wav|8|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|1
+DUMMY3/0019_Sad/0019_001353.wav|8|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|3
+DUMMY3/0020_Angry/0020_000663.wav|9|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|0
+DUMMY3/0012_Neutral/0012_000312.wav|1|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|2
+DUMMY3/0018_Neutral/0018_000302.wav|7|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|2
+DUMMY3/0013_Sad/0013_001365.wav|2|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|3
+DUMMY3/0017_Surprise/0017_001707.wav|6|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|4
+DUMMY3/0020_Surprise/0020_001703.wav|9|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|4
+DUMMY3/0012_Neutral/0012_000305.wav|1|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|2
+DUMMY3/0018_Neutral/0018_000301.wav|7|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|2
+DUMMY3/0020_Angry/0020_000664.wav|9|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|0
+DUMMY3/0020_Happy/0020_001001.wav|9|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|1
+DUMMY3/0012_Neutral/0012_000308.wav|1|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|2
+DUMMY3/0018_Sad/0018_001351.wav|7|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|3
+DUMMY3/0012_Sad/0012_001367.wav|1|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|3
+DUMMY3/0018_Sad/0018_001365.wav|7|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|3
+DUMMY3/0020_Angry/0020_000653.wav|9|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|0
+DUMMY3/0013_Sad/0013_001364.wav|2|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|3
+DUMMY3/0012_Happy/0012_001014.wav|1|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|1
+DUMMY3/0017_Happy/0017_001019.wav|6|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|1
+DUMMY3/0019_Surprise/0019_001706.wav|8|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|4
+DUMMY3/0014_Angry/0014_000664.wav|3|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|0
+DUMMY3/0019_Neutral/0019_000302.wav|8|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|2
+DUMMY3/0014_Angry/0014_000661.wav|3|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|0
+DUMMY3/0017_Happy/0017_001001.wav|6|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|1
+DUMMY3/0018_Sad/0018_001354.wav|7|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|3
+DUMMY3/0014_Happy/0014_001019.wav|3|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|1
+DUMMY3/0012_Angry/0012_000664.wav|1|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|0
+DUMMY3/0014_Sad/0014_001357.wav|3|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|3
+DUMMY3/0012_Neutral/0012_000310.wav|1|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|2
+DUMMY3/0013_Surprise/0013_001713.wav|2|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|4
+DUMMY3/0017_Happy/0017_001006.wav|6|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|1
+DUMMY3/0018_Angry/0018_000652.wav|7|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|0
+DUMMY3/0013_Neutral/0013_000306.wav|2|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|2
+DUMMY3/0014_Angry/0014_000653.wav|3|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|0
+DUMMY3/0013_Angry/0013_000668.wav|2|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|0
+DUMMY3/0020_Angry/0020_000652.wav|9|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|0
+DUMMY3/0012_Happy/0012_001001.wav|1|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|1
+DUMMY3/0018_Neutral/0018_000314.wav|7|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|2
+DUMMY3/0020_Neutral/0020_000301.wav|9|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|2
+DUMMY3/0018_Angry/0018_000667.wav|7|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|0
+DUMMY3/0012_Sad/0012_001366.wav|1|ɐ θˈiːf ɪnðə nˈaɪt|3
+DUMMY3/0014_Happy/0014_001017.wav|3|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|1
+DUMMY3/0014_Sad/0014_001362.wav|3|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|3
+DUMMY3/0018_Surprise/0018_001719.wav|7|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|4
+DUMMY3/0018_Neutral/0018_000315.wav|7|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|2
+DUMMY3/0017_Neutral/0017_000312.wav|6|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|2
+DUMMY3/0017_Sad/0017_001370.wav|6|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|3
+DUMMY3/0013_Angry/0013_000652.wav|2|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|0
+DUMMY3/0012_Neutral/0012_000319.wav|1|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|2
+DUMMY3/0018_Happy/0018_001020.wav|7|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|1
+DUMMY3/0019_Surprise/0019_001712.wav|8|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|4
+DUMMY3/0012_Neutral/0012_000309.wav|1|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|2
+DUMMY3/0012_Angry/0012_000657.wav|1|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|0
+DUMMY3/0017_Sad/0017_001369.wav|6|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|3
+DUMMY3/0020_Sad/0020_001351.wav|9|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|3
+DUMMY3/0017_Angry/0017_000667.wav|6|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|0
+DUMMY3/0014_Happy/0014_001011.wav|3|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|1
+DUMMY3/0019_Angry/0019_000655.wav|8|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|0
+DUMMY3/0017_Angry/0017_000654.wav|6|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|0
+DUMMY3/0017_Surprise/0017_001719.wav|6|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|4
+DUMMY3/0017_Angry/0017_000652.wav|6|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|0
+DUMMY3/0018_Sad/0018_001361.wav|7|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|3
+DUMMY3/0014_Sad/0014_001368.wav|3|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|3
+DUMMY3/0019_Angry/0019_000652.wav|8|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|0
+DUMMY3/0018_Happy/0018_001011.wav|7|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|1
+DUMMY3/0014_Neutral/0014_000304.wav|3|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|2
+DUMMY3/0018_Neutral/0018_000310.wav|7|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|2
+DUMMY3/0015_Neutral/0015_000301.wav|4|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|2
+DUMMY3/0018_Happy/0018_001004.wav|7|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|1
+DUMMY3/0017_Happy/0017_001018.wav|6|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|1
+DUMMY3/0015_Neutral/0015_000314.wav|4|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|2
+DUMMY3/0019_Angry/0019_000664.wav|8|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|0
+DUMMY3/0018_Surprise/0018_001718.wav|7|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|4
+DUMMY3/0012_Sad/0012_001356.wav|1|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|3
+DUMMY3/0020_Surprise/0020_001719.wav|9|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|4
+DUMMY3/0020_Surprise/0020_001714.wav|9|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|4
+DUMMY3/0020_Surprise/0020_001707.wav|9|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|4
+DUMMY3/0020_Neutral/0020_000304.wav|9|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|2
+DUMMY3/0018_Happy/0018_001010.wav|7|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|1
+DUMMY3/0020_Angry/0020_000661.wav|9|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|0
+DUMMY3/0019_Sad/0019_001359.wav|8|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|3
+DUMMY3/0019_Happy/0019_001010.wav|8|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|1
+DUMMY3/0012_Surprise/0012_001709.wav|1|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|4
+DUMMY3/0013_Sad/0013_001355.wav|2|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|3
+DUMMY3/0013_Neutral/0013_000315.wav|2|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|2
+DUMMY3/0014_Angry/0014_000651.wav|3|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|0
+DUMMY3/0017_Sad/0017_001357.wav|6|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|3
+DUMMY3/0013_Neutral/0013_000317.wav|2|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|2
+DUMMY3/0020_Happy/0020_001014.wav|9|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|1
+DUMMY3/0014_Happy/0014_001008.wav|3|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|1
+DUMMY3/0018_Neutral/0018_000309.wav|7|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|2
+DUMMY3/0020_Neutral/0020_000314.wav|9|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|2
+DUMMY3/0014_Surprise/0014_001710.wav|3|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|4
+DUMMY3/0013_Sad/0013_001359.wav|2|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|3
+DUMMY3/0019_Neutral/0019_000314.wav|8|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|2
+DUMMY3/0018_Neutral/0018_000303.wav|7|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|2
+DUMMY3/0014_Happy/0014_001016.wav|3|ɐ θˈiːf ɪnðə nˈaɪt|1
+DUMMY3/0020_Sad/0020_001362.wav|9|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|3
+DUMMY3/0018_Surprise/0018_001715.wav|7|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|4
+DUMMY3/0020_Sad/0020_001368.wav|9|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|3
+DUMMY3/0013_Neutral/0013_000307.wav|2|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|2
+DUMMY3/0019_Surprise/0019_001715.wav|8|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|4
+DUMMY3/0012_Happy/0012_001005.wav|1|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|1
+DUMMY3/0018_Surprise/0018_001707.wav|7|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|4
+DUMMY3/0020_Happy/0020_001018.wav|9|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|1
+DUMMY3/0012_Surprise/0012_001710.wav|1|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|4
+DUMMY3/0020_Neutral/0020_000318.wav|9|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|2
+DUMMY3/0017_Sad/0017_001352.wav|6|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|3
+DUMMY3/0020_Sad/0020_001367.wav|9|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|3
+DUMMY3/0012_Neutral/0012_000311.wav|1|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|2
+DUMMY3/0013_Happy/0013_001001.wav|2|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|1
+DUMMY3/0014_Surprise/0014_001720.wav|3|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|4
+DUMMY3/0012_Happy/0012_001012.wav|1|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|1
+DUMMY3/0017_Angry/0017_000653.wav|6|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|0
+DUMMY3/0012_Sad/0012_001363.wav|1|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|3
+DUMMY3/0019_Surprise/0019_001717.wav|8|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|4
+DUMMY3/0019_Neutral/0019_000313.wav|8|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|2
+DUMMY3/0017_Angry/0017_000665.wav|6|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|0
+DUMMY3/0012_Neutral/0012_000320.wav|1|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|2
+DUMMY3/0012_Neutral/0012_000314.wav|1|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|2
+DUMMY3/0014_Surprise/0014_001709.wav|3|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|4
+DUMMY3/0019_Angry/0019_000663.wav|8|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|0
+DUMMY3/0019_Sad/0019_001366.wav|8|ɐ θˈiːf ɪnðə nˈaɪt|3
+DUMMY3/0019_Happy/0019_001004.wav|8|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|1
+DUMMY3/0018_Sad/0018_001358.wav|7|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|3
+DUMMY3/0013_Happy/0013_001015.wav|2|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|1
+DUMMY3/0014_Surprise/0014_001712.wav|3|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|4
+DUMMY3/0017_Neutral/0017_000317.wav|6|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|2
+DUMMY3/0020_Neutral/0020_000319.wav|9|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|2
+DUMMY3/0013_Angry/0013_000658.wav|2|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|0
+DUMMY3/0012_Neutral/0012_000306.wav|1|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|2
+DUMMY3/0018_Sad/0018_001367.wav|7|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|3
+DUMMY3/0014_Surprise/0014_001718.wav|3|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|4
+DUMMY3/0017_Neutral/0017_000306.wav|6|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|2
+DUMMY3/0017_Happy/0017_001015.wav|6|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|1
+DUMMY3/0019_Neutral/0019_000301.wav|8|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|2
+DUMMY3/0014_Angry/0014_000652.wav|3|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|0
+DUMMY3/0019_Surprise/0019_001707.wav|8|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|4
+DUMMY3/0012_Sad/0012_001365.wav|1|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|3
+DUMMY3/0013_Angry/0013_000663.wav|2|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|0
+DUMMY3/0018_Neutral/0018_000313.wav|7|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|2
+DUMMY3/0020_Sad/0020_001357.wav|9|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|3
+DUMMY3/0013_Angry/0013_000660.wav|2|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|0
+DUMMY3/0013_Sad/0013_001354.wav|2|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|3
+DUMMY3/0013_Happy/0013_001009.wav|2|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|1
+DUMMY3/0013_Sad/0013_001368.wav|2|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|3
+DUMMY3/0017_Neutral/0017_000303.wav|6|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|2
+DUMMY3/0014_Happy/0014_001015.wav|3|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|1
+DUMMY3/0013_Sad/0013_001361.wav|2|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|3
+DUMMY3/0013_Surprise/0013_001701.wav|2|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|4
+DUMMY3/0013_Neutral/0013_000303.wav|2|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|2
+DUMMY3/0019_Sad/0019_001369.wav|8|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|3
+DUMMY3/0019_Happy/0019_001014.wav|8|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|1
+DUMMY3/0020_Sad/0020_001365.wav|9|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|3
+DUMMY3/0019_Sad/0019_001364.wav|8|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|3
+DUMMY3/0013_Angry/0013_000664.wav|2|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|0
+DUMMY3/0020_Surprise/0020_001711.wav|9|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|4
+DUMMY3/0020_Surprise/0020_001713.wav|9|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|4
+DUMMY3/0012_Surprise/0012_001704.wav|1|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|4
+DUMMY3/0017_Sad/0017_001367.wav|6|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|3
+DUMMY3/0018_Surprise/0018_001708.wav|7|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|4
+DUMMY3/0019_Happy/0019_001001.wav|8|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|1
+DUMMY3/0012_Surprise/0012_001708.wav|1|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|4
+DUMMY3/0012_Neutral/0012_000304.wav|1|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|2
+DUMMY3/0019_Neutral/0019_000307.wav|8|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|2
+DUMMY3/0014_Angry/0014_000667.wav|3|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|0
+DUMMY3/0013_Surprise/0013_001702.wav|2|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|4
+DUMMY3/0013_Happy/0013_001020.wav|2|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|1
+DUMMY3/0017_Happy/0017_001016.wav|6|ɐ θˈiːf ɪnðə nˈaɪt|1
+DUMMY3/0018_Angry/0018_000657.wav|7|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|0
+DUMMY3/0017_Sad/0017_001362.wav|6|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|3
+DUMMY3/0019_Sad/0019_001365.wav|8|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|3
+DUMMY3/0018_Angry/0018_000662.wav|7|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|0
+DUMMY3/0019_Surprise/0019_001701.wav|8|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|4
+DUMMY3/0018_Neutral/0018_000305.wav|7|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|2
+DUMMY3/0020_Surprise/0020_001708.wav|9|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|4
+DUMMY3/0020_Surprise/0020_001710.wav|9|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|4
+DUMMY3/0020_Happy/0020_001012.wav|9|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|1
+DUMMY3/0014_Sad/0014_001352.wav|3|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|3
+DUMMY3/0017_Surprise/0017_001716.wav|6|ɐ θˈiːf ɪnðə nˈaɪt|4
+DUMMY3/0014_Happy/0014_001012.wav|3|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|1
+DUMMY3/0019_Surprise/0019_001719.wav|8|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|4
+DUMMY3/0012_Angry/0012_000668.wav|1|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|0
+DUMMY3/0018_Angry/0018_000669.wav|7|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|0
+DUMMY3/0017_Angry/0017_000655.wav|6|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|0
+DUMMY3/0015_Neutral/0015_000311.wav|4|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|2
+DUMMY3/0013_Neutral/0013_000313.wav|2|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|2
+DUMMY3/0020_Angry/0020_000651.wav|9|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|0
+DUMMY3/0013_Happy/0013_001012.wav|2|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|1
+DUMMY3/0020_Happy/0020_001017.wav|9|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|1
+DUMMY3/0012_Surprise/0012_001719.wav|1|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|4
+DUMMY3/0020_Surprise/0020_001715.wav|9|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|4
+DUMMY3/0019_Neutral/0019_000315.wav|8|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|2
+DUMMY3/0017_Angry/0017_000658.wav|6|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|0
+DUMMY3/0020_Happy/0020_001007.wav|9|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|1
+DUMMY3/0014_Happy/0014_001013.wav|3|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|1
+DUMMY3/0013_Surprise/0013_001714.wav|2|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|4
+DUMMY3/0017_Surprise/0017_001704.wav|6|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|4
+DUMMY3/0017_Neutral/0017_000316.wav|6|ɐ θˈiːf ɪnðə nˈaɪt|2
+DUMMY3/0012_Happy/0012_001007.wav|1|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|1
+DUMMY3/0019_Neutral/0019_000306.wav|8|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|2
+DUMMY3/0017_Surprise/0017_001701.wav|6|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|4
+DUMMY3/0018_Angry/0018_000663.wav|7|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|0
+DUMMY3/0020_Happy/0020_001015.wav|9|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|1
+DUMMY3/0013_Happy/0013_001011.wav|2|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|1
+DUMMY3/0012_Neutral/0012_000313.wav|1|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|2
+DUMMY3/0015_Neutral/0015_000318.wav|4|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|2
+DUMMY3/0020_Happy/0020_001005.wav|9|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|1
+DUMMY3/0013_Surprise/0013_001712.wav|2|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|4
+DUMMY3/0018_Surprise/0018_001716.wav|7|ɐ θˈiːf ɪnðə nˈaɪt|4
+DUMMY3/0011_Neutral/0011_000301.wav|0|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|2
+DUMMY3/0011_Neutral/0011_000302.wav|0|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|2
+DUMMY3/0011_Neutral/0011_000303.wav|0|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|2
+DUMMY3/0011_Neutral/0011_000304.wav|0|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|2
+DUMMY3/0011_Neutral/0011_000305.wav|0|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|2
+DUMMY3/0011_Neutral/0011_000306.wav|0|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|2
+DUMMY3/0011_Neutral/0011_000307.wav|0|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|2
+DUMMY3/0011_Neutral/0011_000308.wav|0|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|2
+DUMMY3/0011_Neutral/0011_000309.wav|0|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|2
+DUMMY3/0011_Neutral/0011_000310.wav|0|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|2
+DUMMY3/0011_Neutral/0011_000311.wav|0|ˈaɪ æm bˈæk sˈeɪf ɐɡˈɛn|2
+DUMMY3/0011_Neutral/0011_000312.wav|0|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|2
+DUMMY3/0011_Neutral/0011_000313.wav|0|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|2
+DUMMY3/0011_Neutral/0011_000314.wav|0|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|2
+DUMMY3/0011_Neutral/0011_000315.wav|0|ɪts tə sˈeɪ hˌaʊ juː dˈuː wɪð tˈɑːmz ˈænsɚ|2
+DUMMY3/0011_Neutral/0011_000316.wav|0|ɐ θˈiːf ɪnðə nˈaɪt|2
+DUMMY3/0011_Neutral/0011_000317.wav|0|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|2
+DUMMY3/0011_Neutral/0011_000318.wav|0|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|2
+DUMMY3/0011_Neutral/0011_000319.wav|0|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|2
+DUMMY3/0011_Neutral/0011_000320.wav|0|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|2
+DUMMY3/0016_Neutral/0016_000301.wav|5|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|2
+DUMMY3/0016_Neutral/0016_000302.wav|5|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|2
+DUMMY3/0016_Neutral/0016_000303.wav|5|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|2
+DUMMY3/0016_Neutral/0016_000304.wav|5|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|2
+DUMMY3/0016_Neutral/0016_000305.wav|5|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|2
+DUMMY3/0016_Neutral/0016_000306.wav|5|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|2
+DUMMY3/0016_Neutral/0016_000307.wav|5|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|2
+DUMMY3/0016_Neutral/0016_000308.wav|5|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|2
+DUMMY3/0016_Neutral/0016_000309.wav|5|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|2
+DUMMY3/0016_Neutral/0016_000310.wav|5|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|2
+DUMMY3/0016_Neutral/0016_000311.wav|5|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|2
+DUMMY3/0016_Neutral/0016_000312.wav|5|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|2
+DUMMY3/0016_Neutral/0016_000313.wav|5|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|2
+DUMMY3/0016_Neutral/0016_000314.wav|5|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|2
+DUMMY3/0016_Neutral/0016_000315.wav|5|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|2
+DUMMY3/0016_Neutral/0016_000316.wav|5|ɐ θˈiːf ɪnðə nˈaɪt|2
+DUMMY3/0016_Neutral/0016_000317.wav|5|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|2
+DUMMY3/0016_Neutral/0016_000318.wav|5|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|2
+DUMMY3/0016_Neutral/0016_000319.wav|5|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|2
+DUMMY3/0016_Neutral/0016_000320.wav|5|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|2
+DUMMY3/0016_Angry/0016_000651.wav|5|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|0
+DUMMY3/0016_Angry/0016_000652.wav|5|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|0
+DUMMY3/0016_Angry/0016_000653.wav|5|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|0
+DUMMY3/0016_Angry/0016_000654.wav|5|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|0
+DUMMY3/0016_Angry/0016_000655.wav|5|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|0
+DUMMY3/0016_Angry/0016_000656.wav|5|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|0
+DUMMY3/0016_Angry/0016_000657.wav|5|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|0
+DUMMY3/0016_Angry/0016_000658.wav|5|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|0
+DUMMY3/0016_Angry/0016_000659.wav|5|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|0
+DUMMY3/0016_Angry/0016_000660.wav|5|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|0
+DUMMY3/0016_Angry/0016_000661.wav|5|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|0
+DUMMY3/0016_Angry/0016_000662.wav|5|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|0
+DUMMY3/0016_Angry/0016_000663.wav|5|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|0
+DUMMY3/0016_Angry/0016_000664.wav|5|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|0
+DUMMY3/0016_Angry/0016_000665.wav|5|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|0
+DUMMY3/0016_Angry/0016_000666.wav|5|ɐ θˈiːf ɪnðə nˈaɪt|0
+DUMMY3/0016_Angry/0016_000667.wav|5|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|0
+DUMMY3/0016_Angry/0016_000668.wav|5|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|0
+DUMMY3/0016_Angry/0016_000669.wav|5|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|0
+DUMMY3/0016_Angry/0016_000670.wav|5|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|0
+DUMMY3/0016_Happy/0016_001001.wav|5|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|1
+DUMMY3/0016_Happy/0016_001002.wav|5|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|1
+DUMMY3/0016_Happy/0016_001003.wav|5|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|1
+DUMMY3/0016_Happy/0016_001004.wav|5|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|1
+DUMMY3/0016_Happy/0016_001005.wav|5|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|1
+DUMMY3/0016_Happy/0016_001006.wav|5|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|1
+DUMMY3/0016_Happy/0016_001007.wav|5|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|1
+DUMMY3/0016_Happy/0016_001008.wav|5|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|1
+DUMMY3/0016_Happy/0016_001009.wav|5|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|1
+DUMMY3/0016_Happy/0016_001010.wav|5|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|1
+DUMMY3/0016_Happy/0016_001011.wav|5|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|1
+DUMMY3/0016_Happy/0016_001012.wav|5|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|1
+DUMMY3/0016_Happy/0016_001013.wav|5|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|1
+DUMMY3/0016_Happy/0016_001014.wav|5|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|1
+DUMMY3/0016_Happy/0016_001015.wav|5|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|1
+DUMMY3/0016_Happy/0016_001016.wav|5|ɐ θˈiːf ɪnðə nˈaɪt|1
+DUMMY3/0016_Happy/0016_001017.wav|5|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|1
+DUMMY3/0016_Happy/0016_001018.wav|5|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|1
+DUMMY3/0016_Happy/0016_001019.wav|5|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|1
+DUMMY3/0016_Happy/0016_001020.wav|5|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|1
+DUMMY3/0016_Sad/0016_001351.wav|5|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|3
+DUMMY3/0016_Sad/0016_001352.wav|5|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|3
+DUMMY3/0016_Sad/0016_001353.wav|5|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|3
+DUMMY3/0016_Sad/0016_001354.wav|5|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|3
+DUMMY3/0016_Sad/0016_001355.wav|5|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|3
+DUMMY3/0016_Sad/0016_001356.wav|5|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|3
+DUMMY3/0016_Sad/0016_001357.wav|5|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|3
+DUMMY3/0016_Sad/0016_001358.wav|5|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|3
+DUMMY3/0016_Sad/0016_001359.wav|5|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|3
+DUMMY3/0016_Sad/0016_001360.wav|5|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|3
+DUMMY3/0016_Sad/0016_001361.wav|5|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|3
+DUMMY3/0016_Sad/0016_001362.wav|5|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|3
+DUMMY3/0016_Sad/0016_001363.wav|5|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|3
+DUMMY3/0016_Sad/0016_001364.wav|5|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|3
+DUMMY3/0016_Sad/0016_001365.wav|5|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|3
+DUMMY3/0016_Sad/0016_001366.wav|5|ɐ θˈiːf ɪnðə nˈaɪt|3
+DUMMY3/0016_Sad/0016_001367.wav|5|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|3
+DUMMY3/0016_Sad/0016_001368.wav|5|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|3
+DUMMY3/0016_Sad/0016_001369.wav|5|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|3
+DUMMY3/0016_Sad/0016_001370.wav|5|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|3
+DUMMY3/0016_Surprise/0016_001701.wav|5|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt|4
+DUMMY3/0016_Surprise/0016_001702.wav|5|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt|4
+DUMMY3/0016_Surprise/0016_001703.wav|5|ˈaɪ æm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ|4
+DUMMY3/0016_Surprise/0016_001704.wav|5|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd|4
+DUMMY3/0016_Surprise/0016_001705.wav|5|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ|4
+DUMMY3/0016_Surprise/0016_001706.wav|5|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz|4
+DUMMY3/0016_Surprise/0016_001707.wav|5|ˈaɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz|4
+DUMMY3/0016_Surprise/0016_001708.wav|5|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ|4
+DUMMY3/0016_Surprise/0016_001709.wav|5|hiː ˈoʊd mˈɪstɚ lˈɔːsən ˈaɪ kˈænt tˈɛl juː hˈaʊ|4
+DUMMY3/0016_Surprise/0016_001710.wav|5|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn|4
+DUMMY3/0016_Surprise/0016_001711.wav|5|ˈaɪ æm sˈeɪf bˈæk ɐɡˈɛn|4
+DUMMY3/0016_Surprise/0016_001712.wav|5|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz|4
+DUMMY3/0016_Surprise/0016_001713.wav|5|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs|4
+DUMMY3/0016_Surprise/0016_001714.wav|5|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl|4
+DUMMY3/0016_Surprise/0016_001715.wav|5|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ|4
+DUMMY3/0016_Surprise/0016_001716.wav|5|ɐ θˈiːf ɪnðə nˈaɪt|4
+DUMMY3/0016_Surprise/0016_001717.wav|5|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd|4
+DUMMY3/0016_Surprise/0016_001718.wav|5|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|4
+DUMMY3/0016_Surprise/0016_001719.wav|5|hˌaʊ kʊd ˈaɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz|4
+DUMMY3/0016_Surprise/0016_001720.wav|5|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ|4
+DUMMY3/0014_Neutral/0014_000318.wav|3|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks|2

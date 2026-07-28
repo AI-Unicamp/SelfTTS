@@ -1,0 +1,16 @@
+DUMMY1
+DUMMY2
+DUMMY3
+logs
+__pycache__
+.ipynb_checkpoints
+.*.swp
+
+build
+*.c
+monotonic_align/monotonic_align
+
+vctk_base_16k
+slurm
+filelists/esd_test_raw_sentences.csv
+filelists/esd_test_unique_raw_sentences.csv
